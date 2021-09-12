@@ -1,0 +1,88 @@
+body{
+    background: #E5E5E5;
+}
+main{
+   max-width: 870px; 
+}
+.navbar{
+    width: 100%;
+}
+.navbar-brand img{
+    width: 40.42px;
+    height: 51px;
+}
+.nav-link img{
+    width: 51px;
+    height: 51px;
+}
+.navbar-content{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.pb-combined-container{
+    width: 870px;
+    margin-top: 25px;
+    border-radius: 10px;
+    background: #FFFFFF;
+}
+.player-name{
+    font-weight: 500;
+    font-size: 18px;
+    color: #000000;
+}
+hr{
+    width: 90%;
+    border: 1px solid #D1D1D1;
+}
+.section-title{
+    color: #562EFF;
+}
+.course-container{
+    background: #FFFFFF;
+    width: 870px;
+    margin: 25px 0 25px 0;
+    border-radius: 10px;
+}
+.player img{
+    width: 56px;
+    height: 56px;
+}
+.blog img{
+    width: 177px;
+    height: 117px;
+}
+.clock{
+    font-size: 16.69px;
+    color:#ED6B4F;
+     
+}
+p span{
+    color: #562EFF;
+}
+.card{
+    border: none;
+    box-shadow: 1px 1px 15px lightgrey;
+    border-radius: 10px;
+}
+.card img{
+    padding: 12px;
+}
+.card-text{
+    color: #ED6B4F;
+}
+.checked{
+    color: #FFC014;
+}
+.unchecked{
+    color: #AEAEAE;
+}
+.clock-style{
+    margin-left: 25px;
+    background: #FFE4E8;
+    border-radius: 14.6913px;
+    padding: 0px 8px 0 8px;
+}
+.card-footer{
+    border: none;
+    background: #FFFFFF;
+}
